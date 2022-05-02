@@ -8,5 +8,5 @@
 ## 仓库
 **当前**仓库是核心文件，具体使用的代码见其他仓库
 
-[android version](htttps://xxx.com "android")
+[android version](https://github.com/savet-save/human-language-translator "android")
 
